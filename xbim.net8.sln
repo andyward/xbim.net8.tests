@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xbim.net8.testproject", "ConsoleApp4\xbim.net8.testproject.csproj", "{07D592FA-6402-49D8-815C-22268CE5807C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xbim.net8.testproject", "xbim.net8.testproject\xbim.net8.testproject.csproj", "{07D592FA-6402-49D8-815C-22268CE5807C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
